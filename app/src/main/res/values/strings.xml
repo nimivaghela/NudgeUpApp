@@ -1,0 +1,173 @@
+<resources>
+    <string name="poppins_bold">font/poppins_bold.ttf</string>
+    <string name="app_name">ColltDemoApp</string>
+    <string name="never_miss_your_friends">Never miss your friends</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="info_welcome_screen">By continuing, you agree to NudgeUp\'s</string>
+    <string name="terms_and_conditions"><u>Terms and Conditions</u></string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="info_welcome_screen_two">and confirm you have read NudgeUp\'s</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login"><u>Log in</u></string>
+    <string name="trouble_signing_up_with_ques">Trouble signing up?</string>
+    <string name="trouble_in_logging_in_with_ques">Trouble logging in?</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="enter_your_phone_number_to_log_in">Enter your phone number to log in</string>
+    <string name="your_phone_number">Your phone number</string>
+    <string name="_continue">Continue</string>
+    <string name="error_enter_phone_no">Please enter phone number</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="welcome_to_nudge_up">Welcome to NudgeUp</string>
+    <string name="enter_your_phone_number_to_sign_up">Enter your phone number to sign up</string>
+    <string name="we_sent_you_a_code_to">We sent you a code to</string>
+    <string name="lets_create_your_profile">Let\'s create your profile</string>
+    <string name="your_name">Your name</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="next">Next</string>
+    <string name="choose_your_username">Choose your username</string>
+    <string name="at">\@</string>
+    <string name="your_username">Your username</string>
+    <string name="add_profile_photo">Add profile photo</string>
+    <string name="error_enter_your_name">Please enter your name</string>
+    <string name="error_select_dob">Please select date of birth</string>
+    <string name="suggestions">Suggestions:</string>
+    <string name="already_taken">Already taken</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="photo_library">Photo library</string>
+    <string name="cancel">Cancel</string>
+    <string name="skip">Skip</string>
+    <string name="find_your_friends_on_nudge_up">Find your friends on NudgeUp</string>
+    <string name="allow_access_to_your_phone">Allow access to your phone\'s contact list to find your friend on NudgeUp</string>
+    <string name="find_my_friends">Find my friends</string>
+    <string name="add_your_friends">Add your friends</string>
+    <string name="search">Search</string>
+    <string name="invite">Invite</string>
+    <string name="friends_on_nudgeup">Friends on NudgeUp</string>
+    <string name="invite_friends">Invite Friends</string>
+    <string name="add_friend">Add Friend</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lets_go">Let\'s go!</string>
+    <string name="lets_get_you_started">Let\'s get you</string>
+    <string name="swipe_for_a_quick_intro">Swipe for a quick intro of how the app works</string>
+
+    <!--    Network Errors-->
+    <string name="text_error_network">No Internet connection!!!</string>
+    <string name="text_error_internal_server">Internal server error. Please retry!!!</string>
+    <string name="text_error_timeout">Sorry, We lost you. Please retry!!!</string>
+    <string name="text_error_connection">Look a like we lost you for a moment. Please retry!!!</string>
+    <string name="text_server_connection">There is an issue while connecting to server</string>
+    <string name="nudge_your_friends">NUDGE YOUR</string>
+    <string name="with_fun_prompts">with fun prompts.</string>
+    <string name="choose_how_they_respond">CHOOSE HOW THEY</string>
+    <string name="they_can_only_see">They can only see your nudge once they respond with a photo, audio or text.</string>
+    <string name="save_the_best_moments_together">SAVE THE BEST MOMENTS</string>
+    <string name="pick_your_friends_best_moments">Pick your friends best moments to save and they pick yours.</string>
+    <string name="started">STARTED</string>
+    <string name="friends">FRIENDS</string>
+    <string name="respond">RESPOND</string>
+    <string name="together">TOGETHER</string>
+    <string name="error_enter_vallid_phone_no">Please enter valid phone no</string>
+    <string name="error_enter_otp">Please enter OTP</string>
+    <string name="error_enter_valid_otp">Please enter 6 digit OTP</string>
+    <string name="error_choose_user_name">Please select valid user name</string>
+    <string name="did_not_receive_the_code">Didn\'t receive the code?</string>
+    <string name="send_again"><u>Send Again</u></string>
+    <string name="friends_">Friends</string>
+    <string name="nudge_your_friend">Nudge your friend</string>
+    <string name="refreshed">Refreshed</string>
+
+    <string name="failed_loading_msg">Something went wrong</string>
+    <string name="failed_network_msg">No internet connection</string>
+    <string name="title_activity_crop_profile">CropProfileActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+    <string name="are_you_sure_want_to_logout">Are you sure want to logout?</string>
+
+
+    <string name="label_sample">sample</string>
+    <string name="label_aspect_ratio">Aspect ratio</string>
+    <string name="label_dynamic">Dynamic</string>
+    <string name="label_image_source">Image source</string>
+    <string name="label_square">Square</string>
+    <string name="label_max_cropped_image_size">Max cropped image size</string>
+    <string name="label_compression_settings">Compression settings</string>
+    <string name="label_ui">UI</string>
+    <string name="label_width">Width</string>
+    <string name="label_height">Height</string>
+    <string name="label_resize_image_to_max_size">Resize image to max size</string>
+    <string name="label_hide_bottom_ui_controls">Hide bottom UI controls</string>
+    <string name="label_freestyle_crop">Freestyle crop</string>
+    <string name="label_select_picture">Select Picture</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_ok">OK</string>
+
+    <string name="notification_image_saved">Image saved</string>
+    <string name="notification_image_saved_click_to_preview">Image saved. Click to preview.</string>
+
+    <string name="menu_download">Download</string>
+
+    <string name="button_pick_amp_crop"><![CDATA[Pick & Crop]]></string>
+    <string name="button_crop_random_image">Crop random image</string>
+
+    <string name="description_cropped_image">Cropped image</string>
+
+    <string name="format_crop_result_d_d">Crop Result (%1$dx%2$d)</string>
+    <string name="format_quality_d">Quality: %d</string>
+    <string name="format_d_d_px">%1$dx%2$d px</string>
+    <string name="format_max_cropped_image_size">Max cropped image size cannot be less then %d</string>
+    <string name="format_max_cropped_image_size_resolution">Too big resolution</string>
+
+    <string name="permission_title_rationale">Permission needed</string>
+    <string name="permission_read_storage_rationale">Storage read permission is needed to pick files.</string>
+    <string name="permission_write_storage_rationale">Storage write permission is needed to save the image.</string>
+
+    <string name="toast_cannot_retrieve_selected_image">Cannot retrieve selected image</string>
+    <string name="toast_cannot_retrieve_cropped_image">Cannot retrieve cropped image</string>
+    <string name="toast_unexpected_error">Unexpected error</string>
+
+    <string name="file_provider_authorities">com.yalantis.ucrop.provider</string>
+    <string name="channel_name">ucrop_chanel</string>
+    <string name="channel_description">ucrop result image</string>
+    <string name="ucrop_label_edit_photo">Edit Photo</string>
+
+</resources>

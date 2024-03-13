@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //primary brand colors
+    <color name="colorPrimary">@color/newColorPrimary</color>
+    <color name="colorPrimaryVariant">@color/newColorPrimaryVariant</color>
+    <color name="colorOnPrimary">@color/white</color>
+    <color name="colorPrimaryAlpha">@color/newColorPrimaryAlpha</color>
+    <color name="transparent">#00ECECEC</color>
+    //neutral colors
+    <color name="black">#FF000000</color>
+    <color name="white_30">#4FFFFFFF</color>
+    <color name="white_10">#1AFFFFFF</color>
+    <color name="white_50">#80FFFFFF</color>
+    <color name="crayola">#C6C6E8</color>
+    <color name="white_22">#38FFFFFF</color>
+    <color name="gray">#999999</color>
+    <color name="light_white">#33FFFFFF</color>
+    <color name="image_placeholder">@color/black_30</color>
+    <color name="color_primary_dark">@color/newColorPrimaryDark</color>
+    <!--  uCrop Color resources  -->
+    <color name="ucrop_color_active_controls_color">@color/newColorPrimary</color>
+    <color name="ucrop_color_widget_rotate_mid_line">@color/newColorPrimary</color>
+    <color name="ucrop_color_active_aspect_ratio">@color/newColorPrimary</color>
+    <color name="ucrop_color_widget_text">@color/newColorPrimary</color>
+    <color name="ucrop_color_toolbar">@color/newColorPrimary</color>
+    <color name="ucrop_color_widget_active">@color/newColorPrimary</color>
+    <color name="ucrop_color_toolbar_widget">@color/white</color>
+    <color name="ucrop_color_statusbar">@color/newColorPrimaryVariant</color>
+    <color name="black_30">#4D000000</color>
+    <color name="black_75">#BF000000</color>
+    <color name="transperant">#00000000</color>
+    <!--  New Theme Colors  -->
+    <color name="newColorPrimary">#000412</color>
+    <!--  Dark Black  -->
+    <color name="newColorPrimaryAlpha">#2D2E48</color>
+    <!--  Black Purple -->
+    <color name="newColorPrimaryDark">#222236</color>
+    <!--  Black Stroke -->
+    <color name="newColorPrimaryVariant">#1C1C27</color>
+    <!--  Light Black  -->
+    <color name="newColorPrimaryAlpha_50">#802D2E48</color>
+    <!--  Black Purple Alpha 50  -->
+    <color name="newColorPrimaryAlpha_30">#4D2D2E48</color>
+    <!--  Black Purple Alpha 30  -->
+    <color name="newColorPrimaryVariant_70">#B31C1C27</color>
+    <!--  Light Black Alpha 70  -->
+    <color name="newColorPrimaryVariant_10">#1A1C1C27</color>
+    <!--  Light Black Alpha 70  -->
+    <color name="newColorPrimaryDark_70">#B3222236</color>
+    <!--  Black Stroke Alpha 70  -->
+    <color name="white_70">#B3FFFFFF</color>
+    <!--  White Alpha 70  -->
+    <color name="vibrant_purple">#424FFF</color>
+    <color name="vibrant_pink">#E613F8</color>
+    <color name="turquoise">#21D4FD</color>
+    <color name="turquoise_50">#8021D4FD</color>
+    <color name="red">#FF0000</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="offWhite">#B3FFFFFF</color>
+    <color name="vibrant_purple_50">#80424FFF</color>
+    <color name="color_979797">#979797</color>
+    <color name="color_black_90">#E6000000</color>
+    <color name="color_white_40">#66FFFFFF</color>
+    <color name="color_white_60">#99FFFFFF</color>
+    <color name="turqoise_light">#6EE3FE</color>
+</resources>

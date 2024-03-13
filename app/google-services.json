@@ -1,0 +1,103 @@
+{
+  "project_info": {
+    "project_number": "645850216412",
+    "project_id": "collt-ad5e9",
+    "storage_bucket": "collt-ad5e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645850216412:android:5f28b2824925e2e5cdc119",
+        "android_client_info": {
+          "package_name": "com.app.collt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645850216412-0bj1ibqcl3rieihf4n3j4lugm4evtgjs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.collt",
+            "certificate_hash": "b74e92891effde48815b58bfc7a2cc1e54aaf6bc"
+          }
+        },
+        {
+          "client_id": "645850216412-1kon9ftsngqbsuvclue1a8med4ctkhq2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.collt",
+            "certificate_hash": "aa5ef057d836593d8da0ab4186c636ccde11dcb0"
+          }
+        },
+        {
+          "client_id": "645850216412-81276qk1baolsvgmotj34qlmunjj8qcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.collt",
+            "certificate_hash": "ba588887f73cfe30f11c0f546b1308bfa1e62112"
+          }
+        },
+        {
+          "client_id": "645850216412-eem1qvb81gu53l7a422cutaijcqr5k2k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.collt",
+            "certificate_hash": "d1291ad155dff4d3ed8bd2d07e1c0093fa257807"
+          }
+        },
+        {
+          "client_id": "645850216412-icvtl4to9uge4j47ku1qjgb7tprd00ot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.collt",
+            "certificate_hash": "9a1ec815c4e9de05676ae274e457924d10835824"
+          }
+        },
+        {
+          "client_id": "645850216412-o6vlnh6jaaqdlglj2nok0d1lfq2uf53a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.collt",
+            "certificate_hash": "5d41e79e4cd61bbb5ca2155c616f719225f64cf4"
+          }
+        },
+        {
+          "client_id": "645850216412-rrv4flrb6r60b57v8otq4q6iggdtl9q9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.collt",
+            "certificate_hash": "d5844ceaf0aaaed1a22a6e6922db4dd685cf1064"
+          }
+        },
+        {
+          "client_id": "645850216412-jtbbgd2c3udp2f4n8s9smpkoq87mffkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd917woIom4dnNFnp2BE9gheEiq10PsLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645850216412-jtbbgd2c3udp2f4n8s9smpkoq87mffkt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "645850216412-jvav6kg3c2802mf5fpugtbef6cqjk09u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.Collt",
+                "app_store_id": "1559219504"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

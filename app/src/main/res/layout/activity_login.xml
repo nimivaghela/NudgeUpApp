@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/layoutMain"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimary"
+        tools:context=".ui.auth.login.LoginActivity">
+
+        <include
+            android:id="@+id/mToolbar"
+            layout="@layout/item_toolbar" />
+
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="80dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/mToolbar">
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/lblWlcmBack"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/welcome_back"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                app:fontFamily="@font/poppins_bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/lblEnterPhone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:text="@string/enter_your_phone_number_to_log_in"
+                android:textColor="@color/white"
+                android:textSize="12sp"
+                app:fontFamily="@font/poppins_regular"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/lblWlcmBack" />
+
+            <LinearLayout
+                android:id="@+id/llPhoneNumber"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="60dp"
+                android:weightSum="7"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/lblEnterPhone">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="40dp"
+                    android:layout_marginEnd="5dp"
+                    android:layout_weight="2"
+                    android:orientation="vertical">
+
+                    <!--<com.hbb20.CountryCodePicker
+                        android:id="@+id/countryCodePicker"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:gravity="center"
+                        app:ccpDialog_backgroundColor="@color/colorPrimary"
+                        app:ccpDialog_showTitle="false"
+                        app:ccpDialog_textColor="@color/white"
+                        app:ccp_autoDetectCountry="true"
+                        app:ccp_clickable="true"
+                        app:ccp_contentColor="@color/white"
+                        app:ccp_showArrow="false"
+                        app:ccp_showFlag="false"
+                        app:ccp_showPhoneCode="true"
+                        app:ccp_textSize="20dp" />-->
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:id="@+id/tvCountryCode"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:background="@null"
+                        android:gravity="center"
+                        android:text="+91"
+                        android:textColor="@color/white"
+                        android:textSize="16dp"
+                        app:fontFamily="@font/poppins_bold" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/white" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginEnd="40dp"
+                    android:layout_weight="5"
+                    android:orientation="vertical">
+
+                    <androidx.appcompat.widget.AppCompatEditText
+                        android:id="@+id/etPhoneNo"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:background="@null"
+                        android:gravity="start|center_vertical"
+                        android:hint="@string/your_phone_number"
+                        android:inputType="number"
+                        android:maxLength="14"
+                        android:paddingStart="12dp"
+                        android:textColor="@color/white"
+                        android:textColorHint="@color/white_50"
+                        android:textSize="16dp"
+                        app:fontFamily="@font/poppins_bold" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/white" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/btnContinue"
+                android:layout_width="180dp"
+                android:layout_height="44dp"
+                android:layout_marginStart="60dp"
+                android:layout_marginTop="60dp"
+                android:layout_marginEnd="60dp"
+                android:layout_marginBottom="20dp"
+                android:background="@drawable/ic_filter_state"
+                android:gravity="center"
+                android:longClickable="true"
+                android:text="@string/_continue"
+                android:textColor="@color/colorPrimary"
+                android:textSize="16dp"
+                app:fontFamily="@font/poppins_bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/llPhoneNumber" />
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>
